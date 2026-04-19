@@ -1,0 +1,12 @@
+# Axe AI Lab — TTS Studio
+# Python 3.12 compatible
+# Install: pip install -r requirements.txt
+# System deps: sudo apt-get install espeak-ng ffmpeg
+
+kokoro>=0.9.4
+gradio>=4.44.0
+soundfile
+scipy
+pydub
+numpy
+torch>=2.0.0
