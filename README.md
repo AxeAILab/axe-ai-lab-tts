@@ -52,8 +52,6 @@ TTS Studio · Kokoro-82M · GPU Accelerated
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AxeAILab/axe-ai-lab-tts/blob/main/Axe_AI_Lab_TTS_Studio.ipynb)
 
-> **Replace `YOUR_USERNAME` with your GitHub username after uploading.**
-
 ### Option 2 — Clone and open manually
 
 ```bash
